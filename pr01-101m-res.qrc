@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/Icons">
+        <file>Rdr_Icon.ico</file>
+    </qresource>
+</RCC>
